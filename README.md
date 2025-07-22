@@ -58,11 +58,11 @@
 
 ##  Fun Fact
 ```python
-while True:
+while True:                  # Hidup itu terus berjalan...
     try:
-        code()
-        mempelajari()
-        tidur()
-    except Hidup:
-        kopi()
-        melanjutkan
+        code()              # Kita ngoding...
+        mempelajari()       # Belajar sesuatu...
+        tidur()             # Lalu istirahat...
+    except Hidup:           # Tapi... hidup kadang error
+        kopi()              # Solusinya? Kopi dulu
+        melanjutkan         # Lalu lanjutkan hidup
