@@ -54,28 +54,7 @@
   <a href="https://linkedin.com/in/ariel-aprielyullah-687243352"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-
 ---
-
-### ✅ **2. Rekam animasi CLI jadi file GIF**
-#### Langkah-langkah:
-1. Jalankan skrip Python kamu di terminal.
-2. Rekam layar dengan software seperti:
-   - [ScreenToGif (Windows)](https://www.screentogif.com/)
-   - [Peek (Linux)](https://github.com/phw/peek)
-   - [Kap (Mac)](https://getkap.co/)
-3. Simpan sebagai `.gif`, lalu upload ke GitHub repo kamu.
-4. Tampilkan di `README.md`:
-
-```markdown
-## ⚙️ Developer Cycle (Fun Fact)
-
-![CLI Fun Fact](./assets/fun-fact.gif)
-
----
-
-
-
 
 ##  Fun Fact
 ```python
