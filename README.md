@@ -2,7 +2,6 @@
   <img src="https://developer-life.vercel.app/banner.svg" alt="Developer Life Banner"/>
 </p>
 
-
 <h1 align="center"> Hi there, I'm Ariel Aprielyullah</h1>
 <h3 align="center">Fullstack Developer | Python & PHP </h3>
 
