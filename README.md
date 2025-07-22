@@ -51,7 +51,7 @@
 ---
 
 ##  Fun Fact
-
+```python
 while True:
     try:
         code()
