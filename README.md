@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://developer-life.vercel.app" target="_blank">
-    <img src="https://developer-life.vercel.app/banner.svg" alt="Banner Profil Developer Life" />
-  </a>
+  <img src="https://developer-life.vercel.app/" alt="Developer Life Banner"/>
 </p>
 
 <h1 align="center"> Hi there, I'm Ariel Aprielyullah</h1>
