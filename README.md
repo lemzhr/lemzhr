@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Hi there, I'm Ariel Aprielyullah 👋</h1>
-<h3 align="center">🌐 Fullstack Developer | Python & PHP </h3>
+<h1 align="center"> Hi there, I'm Ariel Aprielyullah</h1>
+<h3 align="center">Fullstack Developer | Python & PHP </h3>
 
 <p align="center">
   <a href="https://github.com/lemzhr">
@@ -29,7 +29,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lemzhr&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="48%"/>
@@ -39,7 +39,7 @@
 
 ---
 
-## 🌍 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:ariefox46461@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
