@@ -13,7 +13,7 @@
 ---
 
 ## About Me
-- 🔭 I'm currently building **AI-enhanced web tools** using `Next.js` + `Python`
+- 🔭 I'm currently building **web tools** using `Next.js` + `Python`
 - 🌱 I’m learning advanced backend topics: `FastAPI`, `Prisma`, `Microservices`
 - 💬 Ask me about: `Python`, `PHP`, `Next.js`, `MySQL`, `Tailwind`, `REST APIs`
 - 📧 Reach me: **ariefox46461@gmail.com**
