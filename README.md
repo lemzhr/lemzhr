@@ -61,8 +61,8 @@
 while True:
     try:
         code()
-        learn()
-        sleep()
-    except LifeError:
-        coffee()
-        continue
+        mempelajari()
+        tidur()
+    except Hidup:
+        kopi()
+        melanjutkan
