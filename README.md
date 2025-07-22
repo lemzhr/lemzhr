@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariel Aprielyullah</h1>
-<h3 align="center">Web Developer | PHP & MySQL Enthusiast | Dream Builder</h3>
+<h3 align="center">Web Developer | PHP & MySQL  | Dream Builder</h3>
 
 <p align="center">
   <a href="https://github.com/arielaprielyullah">
