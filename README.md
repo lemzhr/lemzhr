@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning: `Laravel`, `REST API`, `AJAX`, `TailwindCSS`
 - 💬 Ask me about: `PHP`, `MySQL`, `HTML`, `CSS`, `JavaScript`
 - 🧠 Favorite stack: `PHP`, `MySQL`, `Vanilla JS`, `Bootstrap`, `Tailwind`
-- 📫 How to reach me: **lemzhr.contact@gmail.com**
+- 📫 How to reach me: **ariefox46461@gmail.com**
 - ⚡ Fun fact: I love making cool UIs and animating websites for fun!
 
 ---
