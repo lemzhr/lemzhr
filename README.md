@@ -50,10 +50,13 @@
 
 ---
 
-## 🧠 Fun Fact
+##  Fun Fact
 
-```python
 while True:
-    code()
-    learn()
-    sleep()
+    try:
+        code()
+        learn()
+        sleep()
+    except LifeError:
+        coffee()
+        continue
