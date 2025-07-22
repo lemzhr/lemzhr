@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://developer-life.vercel.app" target="_blank">
+    <img src="https://developer-life.vercel.app/banner.svg" alt="Banner Profil Developer Life" />
+  </a>
+</p>
+
 <h1 align="center"> Hi there, I'm Ariel Aprielyullah</h1>
 <h3 align="center">Fullstack Developer | Python & PHP </h3>
 
