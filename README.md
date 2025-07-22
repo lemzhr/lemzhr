@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://developer-life.vercel.app/banner.svg" alt="Developer Life Banner"/>
 </p>
----
 
 ## About Me
 - 🔭 I'm currently building **web** using `Next.js` + `Python`
