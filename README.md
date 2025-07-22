@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hi there, I'm Ariel Aprielyullah 👋</h1>
-<h3 align="center">🌐 Fullstack Developer | 🐍 Python & ⚙️ Next.js Enthusiast</h3>
+<h3 align="center">🌐 Fullstack Developer | Python & PHP </h3>
 
 <p align="center">
   <a href="https://github.com/lemzhr">
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 - 🔭 I'm currently building **AI-enhanced web tools** using `Next.js` + `Python`
 - 🌱 I’m learning advanced backend topics: `FastAPI`, `Prisma`, `Microservices`
 - 💬 Ask me about: `Python`, `PHP`, `Next.js`, `MySQL`, `Tailwind`, `REST APIs`
@@ -24,7 +24,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nextjs,react,php,js,html,css,mysql,tailwind,bootstrap,vscode,github,figma" />
+  <img src="https://skillicons.dev/icons?i=python,nextjs,react,php,js,html,css,mysql,tailwind,bootstrap,github,figma" />
 </p>
 
 ---
