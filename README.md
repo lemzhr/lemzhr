@@ -1,48 +1,59 @@
-<h1 align="center">Hi 👋, I'm Ariel Aprielyullah</h1>
-<h3 align="center">💻 Web Developer | PHP & Python  | 📱 Fullstack Developer</h3>
+<h1 align="center">🚀 Hi there, I'm Ariel Aprielyullah 👋</h1>
+<h3 align="center">🌐 Fullstack Developer | 🐍 Python & ⚙️ Next.js Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/lemzhr">
-    <img src="https://komarev.com/ghpvc/?username=lemzhr&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=lemzhr&label=Profile%20views&color=blueviolet&style=flat" alt="lemzhr" />
   </a>
   <a href="https://github.com/lemzhr?tab=followers">
-    <img src="https://img.shields.io/github/followers/lemzhr?label=Followers&style=social" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/lemzhr?label=Followers&style=social" />
   </a>
 </p>
 
 ---
 
-### 💡 About Me
-- 🌱 I’m currently learning: `Laravel`, `REST API`, `AJAX`, `TailwindCSS`
-- 💬 Ask me about: `PHP`, `MySQL`, `HTML`, `CSS`, `JavaScript`
-- 🧠 Favorite stack: `PHP`, `MySQL`, `Vanilla JS`, `Bootstrap`, `Tailwind`
-- 📫 How to reach me: **ariefox46461@gmail.com**
-- ⚡ Fun fact: I love making cool UIs and animating websites for fun!
+## 🧠 About Me
+- 🔭 I'm currently building **AI-enhanced web tools** using `Next.js` + `Python`
+- 🌱 I’m learning advanced backend topics: `FastAPI`, `Prisma`, `Microservices`
+- 💬 Ask me about: `Python`, `PHP`, `Next.js`, `MySQL`, `Tailwind`, `REST APIs`
+- 📧 Reach me: **ariefox46461@gmail.com**
+- 🎨 I love turning ideas into responsive, animated user experiences
 
 ---
 
-### 🛠️ Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,tailwind,vscode,github" />
-</p>
+## 🛠️ Languages & Tools
 
----
-
-### 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lemzhr&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemzhr&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=python,nextjs,react,php,js,html,css,mysql,tailwind,bootstrap,vscode,github,figma" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 📈 GitHub Stats
+
 <p align="center">
-  <a href="mailto:lemzhr.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/lemzhr">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <!-- Tambahkan LinkedIn atau Instagram jika kamu mau -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lemzhr&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lemzhr&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemzhr&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="mailto:ariefox46461@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/lemzhr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/lemzhr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ariel-aprielyullah-687243352"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧠 Fun Fact
+
+```python
+while True:
+    code()
+    learn()
+    sleep()
