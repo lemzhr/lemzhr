@@ -38,8 +38,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lemzhr&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lemzhr&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemzhr&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemzhr&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
+
 
 ---
 
