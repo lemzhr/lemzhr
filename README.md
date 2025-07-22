@@ -1,5 +1,5 @@
 <p align="center">
-  ![Developer Life Banner](https://developer-life.vercel.app/)
+  <img src="https://developer-life.vercel.app/" alt="Developer Life Banner"/>
 </p>
 
 <h1 align="center"> Hi there, I'm Ariel Aprielyullah</h1>
