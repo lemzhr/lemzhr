@@ -58,11 +58,64 @@
 
 ##  Fun Fact
 ```python
-while True:                  # Hidup itu terus berjalan...
-    try:
-        code()              # Kita ngoding...
-        mempelajari()       # Belajar sesuatu...
-        tidur()             # Lalu istirahat...
-    except Hidup:           # Tapi... hidup kadang error
-        kopi()              # Solusinya? Kopi dulu
-        melanjutkan         # Lalu lanjutkan hidup
+import time
+import sys
+import os
+from colorama import init, Fore, Style
+
+init(autoreset=True)
+
+def ketik(teks, warna=Fore.WHITE, delay=0.04):
+    for huruf in teks:
+        sys.stdout.write(warna + huruf + Style.RESET_ALL)
+        sys.stdout.flush()
+        time.sleep(delay)
+    print()
+
+def garis(panjang=60):
+    print(Fore.CYAN + "-" * panjang)
+
+def bersihkan_layar():
+    os.system('cls' if os.name == 'nt' else 'clear')
+
+aktivitas = [
+    (Fore.GREEN + "💻 Menulis baris kode...", 1.8),
+    (Fore.YELLOW + "📚 Mempelajari dokumentasi...", 1.8),
+    (Fore.BLUE + "😴 Tidur... (sebentar saja)", 1.5),
+    (Fore.RED + "💥 Exception: Hidup tidak semudah itu!", 1.8),
+    (Fore.MAGENTA + "☕ Membuat kopi untuk menyelamatkan hari...", 2),
+    (Fore.CYAN + "🔁 Melanjutkan perjuangan ngoding...", 2)
+]
+
+def intro():
+    bersihkan_layar()
+    garis()
+    ketik("🧠  Selamat datang di Simulasi Hidup Seorang Developer!", Fore.LIGHTBLUE_EX, 0.05)
+    ketik("⌛  Bersiaplah untuk melihat siklus harian yang tak berujung...", Fore.LIGHTWHITE_EX)
+    garis()
+    time.sleep(2)
+
+def outro():
+    ketik("\n👨‍💻 Hidup developer memang keras, tapi komunitas membuatnya lebih ringan.", Fore.LIGHTMAGENTA_EX, 0.07)
+    ketik("📌 Ingat: Jangan lupa istirahat dan minum air putih ya 💧", Fore.LIGHTGREEN_EX)
+    ketik("👋 Sampai jumpa! Tetap semangat dan terus belajar 💡", Fore.LIGHTYELLOW_EX, 0.08)
+    garis()
+
+def mulai_simulasi(siklus=3):
+    intro()
+    for i in range(siklus):
+        garis()
+        ketik(f"🌐  Siklus ke-{i+1} dimulai...\n", Fore.LIGHTCYAN_EX)
+        for aksi, jeda in aktivitas[:3]:
+            ketik(aksi)
+            time.sleep(jeda)
+        for aksi, jeda in aktivitas[3:]:
+            ketik(aksi)
+            time.sleep(jeda)
+        garis()
+        ketik(f"✔️  Siklus ke-{i+1} selesai", Fore.LIGHTGREEN_EX)
+        time.sleep(1)
+    outro()
+
+if __name__ == "__main__":
+    mulai_simulasi()
