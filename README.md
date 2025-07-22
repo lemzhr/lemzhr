@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Laravel & REST API**
 - 🧠 Always exploring new web technologies
 - 🔭 I’m currently working on: AquaSoulmates Web App
-- 📫 Contact me: `ariel.aprielyullah@email.com`
+- 📫 Contact me: `ariefox46461@gmail.com`
 
 ---
 
