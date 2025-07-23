@@ -65,7 +65,7 @@
 ```javascript
 while (true) {
     kode();
-    capucino();
     belajar();
     tidur();
+    menyelam();
 }
