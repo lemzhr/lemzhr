@@ -17,7 +17,7 @@
 ---
 
 ## Tentang Saya
-- Saat ini sedang membangun **website** menggunakan `Next.js` + `Python`
+- Saat ini sedang membangun **website** menggunakan `PHP` + `Python`
 - Sedang mempelajari topik backend tingkat lanjut: `FastAPI`, `Prisma`, `Microservices`
 - Tanya saya tentang: `Python`, `PHP`, `Next.js`, `MySQL`, `Tailwind`, `REST API`
 - Hubungi saya: **ariefox46461@gmail.com**
