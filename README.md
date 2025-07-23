@@ -34,7 +34,11 @@
 
 ---
 
-## 📊 GitHub Overview
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lemzhr&theme=radical&cache_seconds=1800" alt="lemzhr GitHub Streak"/>
+</p>
+
+---
 
 <p align="center">
 
@@ -42,7 +46,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemzhr&layout=compact&theme=radical&cache_seconds=1800" alt="lemzhr Top Languages"/>
 
-  <img src="https://streak-stats.demolab.com?user=lemzhr&theme=radical&cache_seconds=1800" alt="lemzhr GitHub Streak"/>
 </p>
 
 ---
