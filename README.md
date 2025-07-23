@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Bahasa & Alat yang Saya Gunakan
+## Bahasa & Alat yang Saya Gunakan
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,nextjs,react,php,js,html,css,mysql,tailwind,bootstrap,github,figma" />
@@ -65,7 +65,7 @@
 ```javascript
 while (true) {
     kode();
+    capucino();
     belajar();
     tidur();
-    capucino();
 }
