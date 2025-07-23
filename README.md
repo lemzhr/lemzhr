@@ -51,7 +51,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=lemzhr&theme=radical" alt="lemzhr GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?username=lemzhr&theme=radical" alt="lemzhr GitHub Streak" />
 </p>
 
 ---
