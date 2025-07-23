@@ -32,26 +32,25 @@
   <img src="https://skillicons.dev/icons?i=python,nextjs,react,php,js,html,css,mysql,tailwind,bootstrap,github,figma" />
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lemzhr&show_icons=true&theme=radical" alt="lemzhr GitHub Stats" />
 </p>
 
----
-
-## 🚀 Most Used Languages
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemzhr&layout=compact&theme=radical" alt="lemzhr Top Languages" />
-</p>
+  <!-- Total Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lemzhr&show_icons=true&theme=radical&cache_seconds=1800" alt="lemzhr GitHub Stats"/>
 
----
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemzhr&layout=compact&theme=radical&cache_seconds=1800" alt="lemzhr Top Languages"/>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?username=lemzhr&theme=radical" alt="lemzhr GitHub Streak" />
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-stats.vercel.app/api/streak?user=lemzhr&theme=radical&cache_seconds=1800" alt="lemzhr GitHub Streak"/>
 </p>
 
 ---
