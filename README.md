@@ -34,16 +34,18 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lemzhr&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 ## 🚀 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemzhr&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lemzhr&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
