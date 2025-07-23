@@ -1,32 +1,31 @@
-<h1 align="center"> Hi there, I'm Ariel Aprielyullah</h1>
-<h3 align="center">Fullstack Developer | Python & PHP </h3>
+<h1 align="center">Halo semuanya, saya Ariel Aprielyullah 👋</h1>
+<h3 align="center">Fullstack Developer | Python & PHP</h3>
 
 <p align="center">
   <a href="https://github.com/lemzhr">
-    <img src="https://komarev.com/ghpvc/?username=lemzhr&label=Profile%20views&color=blueviolet&style=flat" alt="lemzhr" />
+    <img src="https://komarev.com/ghpvc/?username=lemzhr&label=Jumlah%20Pengunjung&color=blueviolet&style=flat" alt="lemzhr" />
   </a>
   <a href="https://github.com/lemzhr?tab=followers">
-    <img src="https://img.shields.io/github/followers/lemzhr?label=Followers&style=social" />
+    <img src="https://img.shields.io/github/followers/lemzhr?label=Pengikut&style=social" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://developer-life.vercel.app/banner.svg" alt="Developer Life Banner"/>
+  <img src="https://developer-life.vercel.app/banner.svg" alt="Banner Kehidupan Developer"/>
 </p>
 
+---
+
+## Tentang Saya
+- 🔭 Saat ini sedang membangun **website** menggunakan `Next.js` + `Python`
+- 🌱 Sedang mempelajari topik backend tingkat lanjut: `FastAPI`, `Prisma`, `Microservices`
+- 💬 Tanya saya tentang: `Python`, `PHP`, `Next.js`, `MySQL`, `Tailwind`, `REST API`
+- 📧 Hubungi saya: **ariefox46461@gmail.com**
+- 🎨 Saya senang mengubah ide menjadi pengalaman pengguna yang responsif dan animatif
 
 ---
 
-## About Me
-- 🔭 I'm currently building **web** using `Next.js` + `Python`
-- 🌱 I’m learning advanced backend topics: `FastAPI`, `Prisma`, `Microservices`
-- 💬 Ask me about: `Python`, `PHP`, `Next.js`, `MySQL`, `Tailwind`, `REST APIs`
-- 📧 Reach me: **ariefox46461@gmail.com**
-- 🎨 I love turning ideas into responsive, animated user experiences
-
----
-
-## 🛠️ Languages & Tools
+## 🛠️ Bahasa & Alat yang Saya Gunakan
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,nextjs,react,php,js,html,css,mysql,tailwind,bootstrap,github,figma" />
@@ -35,24 +34,24 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lemzhr&theme=radical&cache_seconds=1800" alt="lemzhr GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=lemzhr&theme=radical&cache_seconds=1800" alt="lemzhr Statistik Streak GitHub"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemzhr&layout=compact&theme=radical&cache_seconds=1800" alt="lemzhr Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemzhr&layout=compact&theme=radical&cache_seconds=1800" alt="lemzhr Bahasa Teratas"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lemzhr&show_icons=true&theme=radical&cache_seconds=1800" alt="lemzhr GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lemzhr&show_icons=true&theme=radical&cache_seconds=1800" alt="lemzhr Statistik GitHub"/>
 </p>
 
 ---
 
-## Connect With Me
+## Terhubung dengan Saya
 
 <p align="center">
   <a href="mailto:ariefox46461@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -63,11 +62,11 @@
 
 ---
 
-##  Fun Fact
-```python
-  while (true) {
-        kode();
-  belajar();
-        tidur();
-  capucino();
+## Fakta Menarik
+```javascript
+while (true) {
+    kode();
+    belajar();
+    tidur();
+    capucino();
 }
