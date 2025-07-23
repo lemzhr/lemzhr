@@ -14,6 +14,10 @@
   <img src="https://developer-life.vercel.app/banner.svg" alt="Developer Life Banner"/>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemzhr&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lemzhr&show_icons=true&theme=tokyonight)
+
+
 ---
 
 ## About Me
