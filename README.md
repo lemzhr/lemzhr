@@ -34,22 +34,14 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lemzhr&show_icons=true&theme=radical" alt="lemzhr GitHub Stats" />
-</p>
-
 ## 📊 GitHub Overview
 
 <p align="center">
-  <!-- Total Stats -->
+
   <img src="https://github-readme-stats.vercel.app/api?username=lemzhr&show_icons=true&theme=radical&cache_seconds=1800" alt="lemzhr GitHub Stats"/>
 
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemzhr&layout=compact&theme=radical&cache_seconds=1800" alt="lemzhr Top Languages"/>
 
-  <!-- Contribution Streak -->
   <img src="https://github-readme-stats.vercel.app/api/streak?user=lemzhr&theme=radical&cache_seconds=1800" alt="lemzhr GitHub Streak"/>
 </p>
 
