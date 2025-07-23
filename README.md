@@ -21,7 +21,6 @@
 - Sedang mempelajari topik backend tingkat lanjut: `FastAPI`, `Prisma`, `Microservices`
 - Tanya saya tentang: `Python`, `PHP`, `Next.js`, `MySQL`, `Tailwind`, `REST API`
 - Hubungi saya: **ariefox46461@gmail.com**
-- Saya senang mengubah ide menjadi pengalaman pengguna yang responsif dan animatif
 
 ---
 
