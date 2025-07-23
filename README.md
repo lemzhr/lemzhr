@@ -50,7 +50,7 @@
 
 ---
 
-## Media Sosial Saya
+## Media Sosial
 
 <p align="center">
   <a href="mailto:ariefox46461@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
