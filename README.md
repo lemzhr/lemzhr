@@ -14,9 +14,6 @@
   <img src="https://developer-life.vercel.app/banner.svg" alt="Developer Life Banner"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemzhr&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lemzhr&show_icons=true&theme=tokyonight)
-
 
 ---
 
@@ -40,10 +37,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lemzhr&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lemzhr&theme=tokyonight&hide_border=true" width="48%"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemzhr&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" width="48%"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemzhr&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lemzhr&show_icons=true&theme=tokyonight)
 </p>
 
 
