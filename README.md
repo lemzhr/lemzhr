@@ -34,13 +34,17 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemzhr&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lemzhr&show_icons=true&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=lemzhr&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+## 🚀 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemzhr&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
