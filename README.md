@@ -70,9 +70,10 @@
 ---
 
 ##  Fun Fact
-```md
-🌀 while (true) {
-🔧 code();
-📘 learn();
-😴 sleep();
+```python
+  while (true) {
+        kode();
+  belajar();
+        tidur();
+  capucino();
 }
