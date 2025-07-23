@@ -42,7 +42,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemzhr&layout=compact&theme=radical&cache_seconds=1800" alt="lemzhr Top Languages"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lemzhr&theme=radical" alt="lemzhr GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=lemzhr&theme=radical" alt="GitHub Streak"/>
 
 </p>
 
