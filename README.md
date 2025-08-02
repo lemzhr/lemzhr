@@ -61,10 +61,9 @@
 
 ---
 
-## Fakta Menarik
+## Lelucon
 ```javascript
 while (true) {
-    kode();
     belajar();
     tidur();
     menyelam();
